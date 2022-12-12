@@ -1,4 +1,5 @@
 # Shell Program
+* Software that can handle commands similar to those used in the Linux terminal
 
 Handles
 
