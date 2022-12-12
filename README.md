@@ -1,7 +1,7 @@
 # Shell Program
 * Software that can handle commands similar to those used in the Linux terminal
 
-Handles
+Capabilities
 
 	- Multiple arugments (EX| ls, ps -a, wc < File, ls > File )
 	- Pipe Arguements (EX| ls | wc )
